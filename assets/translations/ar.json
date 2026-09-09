@@ -1,0 +1,64 @@
+{
+  "app_title": "بوابة الصيدلية",
+  "search_hint": "ابحث عن دواء...",
+  "search_prompt": "ابحث عن دواء للبدء",
+  "not_found": "الدواء غير موجود",
+  "add_medicine": "إضافة دواء",
+  "add_photo": "إضافة صورة",
+  "gallery": "معرض الصور",
+  "camera": "الكاميرا",
+  "name": "الاسم",
+  "generic_name": "الاسم العلمي",
+  "manufacturer": "الشركة المصنعة",
+  "description": "الوصف",
+  "save": "حفظ",
+  "save_error": "تعذر الحفظ",
+  "required_field": "هذا الحقل مطلوب",
+
+  "nav_dashboard": "الرئيسية",
+  "nav_search": "بحث",
+  "nav_inventory": "المخزون",
+  "nav_settings": "الإعدادات",
+
+  "drawer_pharmacy_name": "صيدلية المدينة",
+  "drawer_role": "بوابة الصيدلي",
+  "drawer_orders": "الطلبات",
+  "drawer_reports": "التقارير",
+  "drawer_help": "المساعدة والدعم",
+  "drawer_logout": "تسجيل الخروج",
+
+  "dark_mode": "الوضع الداكن",
+  "light_mode": "الوضع الفاتح",
+  "logout_placeholder": "تسجيل الخروج غير مفعّل بعد — للعرض فقط",
+  "coming_soon_banner": "هذا القسم معاينة فقط — غير متصل بعد ببيانات حقيقية",
+
+  "dashboard_welcome": "مرحباً بعودتك",
+  "dashboard_subtitle": "إليك ما يحدث في صيدليتك اليوم",
+  "dashboard_quick_actions": "إجراءات سريعة",
+  "dashboard_recent": "أُضيف مؤخراً",
+  "dashboard_no_recent": "لم تتم إضافة أي دواء بعد",
+  "stat_total_medicines": "إجمالي الأدوية",
+  "stat_pending_orders": "الطلبات المعلقة",
+
+  "inventory_filter_hint": "تصفية حسب الاسم...",
+  "inventory_empty": "المخزون فارغ. أضف أول دواء للبدء.",
+  "inventory_no_match": "لا توجد أدوية مطابقة لهذا الفلتر",
+
+  "order_status_pending": "قيد الانتظار",
+  "order_status_fulfilled": "مكتمل",
+
+  "reports_weekly_searches": "نشاط البحث الأسبوعي",
+
+  "settings_appearance": "المظهر",
+  "settings_language": "اللغة",
+  "settings_account": "الحساب",
+  "settings_profile": "الملف الشخصي",
+  "settings_notifications": "الإشعارات",
+
+  "help_q1": "كيف أضيف دواءً جديداً؟",
+  "help_a1": "اذهب إلى البحث، ابحث عن الدواء، وإذا لم يتم العثور عليه سترى زر إضافة دواء لإدخاله يدوياً مع صورة.",
+  "help_q2": "لماذا لا توجد صورة لبعض الأدوية؟",
+  "help_a2": "الأدوية المستوردة تلقائياً من قاعدة البيانات العامة لا تحتوي على صور. يمكنك إضافة صورة بنفسك من تبويب المخزون.",
+  "help_q3": "هل يمكنني استخدام التطبيق بلغة أخرى؟",
+  "help_a3": "نعم — اذهب إلى الإعدادات واختر من بين الإنجليزية والعربية والفرنسية والألمانية والتركية."
+}

@@ -1,0 +1,64 @@
+{
+  "app_title": "Eczane Portalı",
+  "search_hint": "Bir ilaç arayın...",
+  "search_prompt": "Başlamak için bir ilaç arayın",
+  "not_found": "İlaç bulunamadı",
+  "add_medicine": "İlaç Ekle",
+  "add_photo": "Fotoğraf ekle",
+  "gallery": "Galeri",
+  "camera": "Kamera",
+  "name": "Ad",
+  "generic_name": "Jenerik ad",
+  "manufacturer": "Üretici",
+  "description": "Açıklama",
+  "save": "Kaydet",
+  "save_error": "Kaydedilemedi",
+  "required_field": "Bu alan zorunludur",
+
+  "nav_dashboard": "Panel",
+  "nav_search": "Arama",
+  "nav_inventory": "Envanter",
+  "nav_settings": "Ayarlar",
+
+  "drawer_pharmacy_name": "Şehir Eczanesi",
+  "drawer_role": "Eczacı Portalı",
+  "drawer_orders": "Siparişler",
+  "drawer_reports": "Raporlar",
+  "drawer_help": "Yardım & Destek",
+  "drawer_logout": "Çıkış yap",
+
+  "dark_mode": "Karanlık mod",
+  "light_mode": "Aydınlık mod",
+  "logout_placeholder": "Çıkış işlevi henüz bağlı değil — sadece demo",
+  "coming_soon_banner": "Bu bölüm bir önizlemedir — henüz canlı verilere bağlı değil",
+
+  "dashboard_welcome": "Tekrar hoş geldiniz",
+  "dashboard_subtitle": "Bugün eczanenizde neler oluyor",
+  "dashboard_quick_actions": "Hızlı işlemler",
+  "dashboard_recent": "Son eklenenler",
+  "dashboard_no_recent": "Henüz ilaç eklenmedi",
+  "stat_total_medicines": "Toplam ilaç",
+  "stat_pending_orders": "Bekleyen siparişler",
+
+  "inventory_filter_hint": "Ada göre filtrele...",
+  "inventory_empty": "Envanteriniz boş. Başlamak için ilk ilacınızı ekleyin.",
+  "inventory_no_match": "Bu filtreyle eşleşen ilaç yok",
+
+  "order_status_pending": "Beklemede",
+  "order_status_fulfilled": "Tamamlandı",
+
+  "reports_weekly_searches": "Haftalık arama etkinliği",
+
+  "settings_appearance": "Görünüm",
+  "settings_language": "Dil",
+  "settings_account": "Hesap",
+  "settings_profile": "Profil",
+  "settings_notifications": "Bildirimler",
+
+  "help_q1": "Yeni bir ilacı nasıl eklerim?",
+  "help_a1": "Arama'ya gidin, ilacı arayın; bulunamazsa fotoğrafla birlikte manuel olarak eklemek için bir düğme göreceksiniz.",
+  "help_q2": "Bir ilacın neden görseli yok?",
+  "help_a2": "Genel ilaç veritabanından otomatik olarak alınan ilaçlarda fotoğraf bulunmaz. Envanter sekmesinden kendiniz ekleyebilirsiniz.",
+  "help_q3": "Uygulamayı başka bir dilde kullanabilir miyim?",
+  "help_a3": "Evet — Ayarlar'a gidin ve İngilizce, Arapça, Fransızca, Almanca veya Türkçe arasından seçim yapın."
+}

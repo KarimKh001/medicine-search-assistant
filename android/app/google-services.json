@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "804376043146",
+    "project_id": "mypharmacyassistant-3203f",
+    "storage_bucket": "mypharmacyassistant-3203f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804376043146:android:caa8f054f9b93202355773",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTonPRZwBCllAGXtCu92fQH39ey_670Vs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

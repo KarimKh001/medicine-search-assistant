@@ -1,0 +1,64 @@
+{
+  "app_title": "Pharmacy Portal",
+  "search_hint": "Search for a medicine...",
+  "search_prompt": "Search for a medicine to get started",
+  "not_found": "Medicine not found",
+  "add_medicine": "Add Medicine",
+  "add_photo": "Add photo",
+  "gallery": "Gallery",
+  "camera": "Camera",
+  "name": "Name",
+  "generic_name": "Generic name",
+  "manufacturer": "Manufacturer",
+  "description": "Description",
+  "save": "Save",
+  "save_error": "Could not save",
+  "required_field": "This field is required",
+
+  "nav_dashboard": "Dashboard",
+  "nav_search": "Search",
+  "nav_inventory": "Inventory",
+  "nav_settings": "Settings",
+
+  "drawer_pharmacy_name": "City Pharmacy",
+  "drawer_role": "Pharmacist Portal",
+  "drawer_orders": "Orders",
+  "drawer_reports": "Reports",
+  "drawer_help": "Help & Support",
+  "drawer_logout": "Log out",
+
+  "dark_mode": "Dark mode",
+  "light_mode": "Light mode",
+  "logout_placeholder": "Logout isn't wired up yet — demo only",
+  "coming_soon_banner": "This section is a preview — not yet connected to live data",
+
+  "dashboard_welcome": "Welcome back",
+  "dashboard_subtitle": "Here's what's happening in your pharmacy today",
+  "dashboard_quick_actions": "Quick actions",
+  "dashboard_recent": "Recently added",
+  "dashboard_no_recent": "No medicines added yet",
+  "stat_total_medicines": "Total medicines",
+  "stat_pending_orders": "Pending orders",
+
+  "inventory_filter_hint": "Filter by name...",
+  "inventory_empty": "Your inventory is empty. Add your first medicine to get started.",
+  "inventory_no_match": "No medicines match that filter",
+
+  "order_status_pending": "Pending",
+  "order_status_fulfilled": "Fulfilled",
+
+  "reports_weekly_searches": "Weekly search activity",
+
+  "settings_appearance": "Appearance",
+  "settings_language": "Language",
+  "settings_account": "Account",
+  "settings_profile": "Profile",
+  "settings_notifications": "Notifications",
+
+  "help_q1": "How do I add a new medicine?",
+  "help_a1": "Go to Search, look up the medicine, and if it's not found you'll see an Add Medicine button to enter it manually with a photo.",
+  "help_q2": "Why does a medicine have no image?",
+  "help_a2": "Medicines pulled automatically from the public drug database don't include photos. You can add one yourself from the Inventory tab.",
+  "help_q3": "Can I use the app in another language?",
+  "help_a3": "Yes — go to Settings and choose from English, Arabic, French, German, or Turkish."
+}

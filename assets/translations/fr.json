@@ -1,0 +1,64 @@
+{
+  "app_title": "Portail Pharmacie",
+  "search_hint": "Rechercher un médicament...",
+  "search_prompt": "Recherchez un médicament pour commencer",
+  "not_found": "Médicament introuvable",
+  "add_medicine": "Ajouter un médicament",
+  "add_photo": "Ajouter une photo",
+  "gallery": "Galerie",
+  "camera": "Appareil photo",
+  "name": "Nom",
+  "generic_name": "Nom générique",
+  "manufacturer": "Fabricant",
+  "description": "Description",
+  "save": "Enregistrer",
+  "save_error": "Échec de l'enregistrement",
+  "required_field": "Ce champ est requis",
+
+  "nav_dashboard": "Tableau de bord",
+  "nav_search": "Recherche",
+  "nav_inventory": "Inventaire",
+  "nav_settings": "Paramètres",
+
+  "drawer_pharmacy_name": "Pharmacie de la Ville",
+  "drawer_role": "Portail Pharmacien",
+  "drawer_orders": "Commandes",
+  "drawer_reports": "Rapports",
+  "drawer_help": "Aide et support",
+  "drawer_logout": "Déconnexion",
+
+  "dark_mode": "Mode sombre",
+  "light_mode": "Mode clair",
+  "logout_placeholder": "La déconnexion n'est pas encore active — démo uniquement",
+  "coming_soon_banner": "Cette section est un aperçu — pas encore connectée à des données réelles",
+
+  "dashboard_welcome": "Bon retour",
+  "dashboard_subtitle": "Voici ce qui se passe dans votre pharmacie aujourd'hui",
+  "dashboard_quick_actions": "Actions rapides",
+  "dashboard_recent": "Ajoutés récemment",
+  "dashboard_no_recent": "Aucun médicament ajouté pour le moment",
+  "stat_total_medicines": "Total des médicaments",
+  "stat_pending_orders": "Commandes en attente",
+
+  "inventory_filter_hint": "Filtrer par nom...",
+  "inventory_empty": "Votre inventaire est vide. Ajoutez votre premier médicament pour commencer.",
+  "inventory_no_match": "Aucun médicament ne correspond à ce filtre",
+
+  "order_status_pending": "En attente",
+  "order_status_fulfilled": "Exécutée",
+
+  "reports_weekly_searches": "Activité de recherche hebdomadaire",
+
+  "settings_appearance": "Apparence",
+  "settings_language": "Langue",
+  "settings_account": "Compte",
+  "settings_profile": "Profil",
+  "settings_notifications": "Notifications",
+
+  "help_q1": "Comment ajouter un nouveau médicament ?",
+  "help_a1": "Allez dans Recherche, cherchez le médicament, et s'il n'est pas trouvé, un bouton Ajouter un médicament apparaîtra pour le saisir manuellement avec une photo.",
+  "help_q2": "Pourquoi un médicament n'a-t-il pas d'image ?",
+  "help_a2": "Les médicaments importés automatiquement depuis la base de données publique n'incluent pas de photos. Vous pouvez en ajouter une depuis l'onglet Inventaire.",
+  "help_q3": "Puis-je utiliser l'application dans une autre langue ?",
+  "help_a3": "Oui — allez dans Paramètres et choisissez parmi l'anglais, l'arabe, le français, l'allemand ou le turc."
+}

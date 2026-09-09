@@ -1,0 +1,64 @@
+{
+  "app_title": "Apotheken-Portal",
+  "search_hint": "Medikament suchen...",
+  "search_prompt": "Suchen Sie nach einem Medikament, um zu beginnen",
+  "not_found": "Medikament nicht gefunden",
+  "add_medicine": "Medikament hinzufügen",
+  "add_photo": "Foto hinzufügen",
+  "gallery": "Galerie",
+  "camera": "Kamera",
+  "name": "Name",
+  "generic_name": "Generischer Name",
+  "manufacturer": "Hersteller",
+  "description": "Beschreibung",
+  "save": "Speichern",
+  "save_error": "Speichern fehlgeschlagen",
+  "required_field": "Dieses Feld ist erforderlich",
+
+  "nav_dashboard": "Übersicht",
+  "nav_search": "Suche",
+  "nav_inventory": "Bestand",
+  "nav_settings": "Einstellungen",
+
+  "drawer_pharmacy_name": "Stadtapotheke",
+  "drawer_role": "Apotheker-Portal",
+  "drawer_orders": "Bestellungen",
+  "drawer_reports": "Berichte",
+  "drawer_help": "Hilfe & Support",
+  "drawer_logout": "Abmelden",
+
+  "dark_mode": "Dunkelmodus",
+  "light_mode": "Hellmodus",
+  "logout_placeholder": "Abmeldung ist noch nicht aktiv — nur Demo",
+  "coming_soon_banner": "Dieser Bereich ist eine Vorschau — noch nicht mit echten Daten verbunden",
+
+  "dashboard_welcome": "Willkommen zurück",
+  "dashboard_subtitle": "Das passiert heute in Ihrer Apotheke",
+  "dashboard_quick_actions": "Schnellzugriff",
+  "dashboard_recent": "Kürzlich hinzugefügt",
+  "dashboard_no_recent": "Noch keine Medikamente hinzugefügt",
+  "stat_total_medicines": "Medikamente gesamt",
+  "stat_pending_orders": "Offene Bestellungen",
+
+  "inventory_filter_hint": "Nach Name filtern...",
+  "inventory_empty": "Ihr Bestand ist leer. Fügen Sie Ihr erstes Medikament hinzu, um zu beginnen.",
+  "inventory_no_match": "Keine Medikamente entsprechen diesem Filter",
+
+  "order_status_pending": "Ausstehend",
+  "order_status_fulfilled": "Erledigt",
+
+  "reports_weekly_searches": "Wöchentliche Suchaktivität",
+
+  "settings_appearance": "Erscheinungsbild",
+  "settings_language": "Sprache",
+  "settings_account": "Konto",
+  "settings_profile": "Profil",
+  "settings_notifications": "Benachrichtigungen",
+
+  "help_q1": "Wie füge ich ein neues Medikament hinzu?",
+  "help_a1": "Gehen Sie zu Suche, suchen Sie das Medikament, und falls es nicht gefunden wird, erscheint eine Schaltfläche zum manuellen Hinzufügen mit Foto.",
+  "help_q2": "Warum hat ein Medikament kein Bild?",
+  "help_a2": "Medikamente, die automatisch aus der öffentlichen Arzneimitteldatenbank stammen, enthalten keine Fotos. Sie können selbst eines im Bestand-Tab hinzufügen.",
+  "help_q3": "Kann ich die App in einer anderen Sprache verwenden?",
+  "help_a3": "Ja — gehen Sie zu Einstellungen und wählen Sie zwischen Englisch, Arabisch, Französisch, Deutsch oder Türkisch."
+}

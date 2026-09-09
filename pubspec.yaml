@@ -1,0 +1,50 @@
+name: products_search_app
+description: "POC26-00004 - Products Search: fetch medicines from a public API, backfill missing photos via web image search, save everything to Firebase, with theme management and multi-language support."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  intl: ^0.20.2
+
+  # Firebase
+  firebase_core: ^3.6.0
+  cloud_firestore: ^5.4.4
+
+  # Networking
+  http: ^1.2.2
+
+  # State management
+  provider: ^6.1.2
+
+  # Persist theme/locale choice locally
+  shared_preferences: ^2.3.2
+
+  # Nice image loading/caching for the medicine photos
+  cached_network_image: ^3.4.1
+
+  cupertino_icons: ^1.0.8
+  firebase_auth: ^5.7.0
+
+  # In-app browser for requirement 2: user searches Google for a photo and
+  # grabs it themselves, instead of the app fetching one automatically.
+  webview_flutter: ^4.10.0
+
+  # Fallback for platforms webview_flutter doesn't cover (Flutter Web,
+  # desktop): opens Google Images in a real browser tab/window instead.
+  url_launcher: ^6.3.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  generate: true # enables flutter gen-l10n from l10n.yaml
